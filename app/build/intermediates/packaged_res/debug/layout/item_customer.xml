@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardUseCompatPadding="false">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Avatar Placeholder -->
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imageAvatar"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="?attr/colorPrimaryVariant"
+            android:scaleType="centerCrop"
+            app:shapeAppearanceOverlay="@style/ShapeAppearance.App.Circle"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent" />
+            
+        <TextView
+            android:id="@+id/textAvatarInitial"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="C"
+            android:textColor="?attr/colorOnPrimary"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            app:layout_constraintTop_toTopOf="@id/imageAvatar"
+            app:layout_constraintBottom_toBottomOf="@id/imageAvatar"
+            app:layout_constraintStart_toStartOf="@id/imageAvatar"
+            app:layout_constraintEnd_toEndOf="@id/imageAvatar" />
+
+        <TextView
+            android:id="@+id/textName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:textAppearance="?attr/textAppearanceTitleMedium"
+            android:textStyle="bold"
+            tools:text="Customer Name"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@id/imageAvatar"
+            app:layout_constraintEnd_toStartOf="@id/textTotalDue" />
+
+        <TextView
+            android:id="@+id/textPhone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="2dp"
+            android:textAppearance="?attr/textAppearanceBodySmall"
+            android:textColor="?android:attr/textColorSecondary"
+            tools:text="+91 9876543210"
+            app:layout_constraintTop_toBottomOf="@id/textName"
+            app:layout_constraintStart_toEndOf="@id/imageAvatar"
+            app:layout_constraintEnd_toStartOf="@id/textTotalDue" />
+
+        <TextView
+            android:id="@+id/textStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="6dp"
+            android:paddingHorizontal="8dp"
+            android:paddingVertical="4dp"
+            android:background="@drawable/bg_status_pill" 
+            android:textAppearance="?attr/textAppearanceLabelSmall"
+            android:textStyle="bold"
+            tools:text="ACTIVE"
+            app:layout_constraintTop_toBottomOf="@id/textPhone"
+            app:layout_constraintStart_toEndOf="@id/imageAvatar" />
+
+        <!-- Vertical bias to align to center -->
+        <TextView
+            android:id="@+id/textTotalDue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?attr/textAppearanceTitleLarge"
+            android:textColor="?attr/colorError"
+            android:textStyle="bold"
+            tools:text="₹1200"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>

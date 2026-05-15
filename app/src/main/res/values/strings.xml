@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tiffin Manager</string>
+
+    <string name="status_paid">Paid</string>
+    <string name="status_due">Due</string>
+    <string name="status_partial">Partial</string>
+
+    <string name="button_add_customer">Add Customer</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="share_due_reminder">Share Due Reminder</string>
+
+    <string name="button_open_payments">Payment History</string>
+
+    <string name="dialog_customer_title">Customer</string>
+    <string name="dialog_payment_title">Payment</string>
+
+    <string name="field_name">Name</string>
+    <string name="field_phone">Phone</string>
+    <string name="field_address">Address</string>
+    <string name="field_date_joining">Date of joining</string>
+
+    <string name="field_month">Month</string>
+    <string name="field_year">Year</string>
+    <string name="field_amount_to_pay">Amount to be paid</string>
+    <string name="field_amount_paid">Amount paid</string>
+</resources>
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background">#F8FAFC</color>
+    <color name="color_error">#EF4444</color>
+    <color name="color_primary">#4F46E5</color>
+    <color name="color_primary_variant">#4338CA</color>
+    <color name="color_secondary">#10B981</color>
+    <color name="color_secondary_variant">#059669</color>
+    <color name="color_success">#10B981</color>
+    <color name="color_surface">#FFFFFF</color>
+    <color name="color_text_primary">#0F172A</color>
+    <color name="color_text_secondary">#64748B</color>
+    <color name="color_warning">#F59E0B</color>
+    <color name="purple_40">#4F46E5</color>
+    <color name="purple_80">#818CF8</color>
+    <color name="teal_40">#10B981</color>
+    <color name="teal_80">#34D399</color>
+    <string name="app_name">Tiffin Manager</string>
+    <string name="button_add_customer">Add Customer</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_open_payments">Payment History</string>
+    <string name="button_save">Save</string>
+    <string name="dialog_customer_title">Customer</string>
+    <string name="dialog_payment_title">Payment</string>
+    <string name="field_address">Address</string>
+    <string name="field_amount_paid">Amount paid</string>
+    <string name="field_amount_to_pay">Amount to be paid</string>
+    <string name="field_date_joining">Date of joining</string>
+    <string name="field_month">Month</string>
+    <string name="field_name">Name</string>
+    <string name="field_phone">Phone</string>
+    <string name="field_year">Year</string>
+    <string name="share_due_reminder">Share Due Reminder</string>
+    <string name="status_due">Due</string>
+    <string name="status_paid">Paid</string>
+    <string name="status_partial">Partial</string>
+    <style name="ShapeAppearance.App.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.Tiffin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/outfit</item>
+        <item name="fontFamily">@font/outfit</item>
+        
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorError">@color/color_error</item>
+        
+        
+        <item name="android:windowBackground">@color/color_background</item>
+        <item name="colorSurface">@color/color_surface</item>
+        <item name="android:statusBarColor">@color/color_primary_variant</item>
+        
+        
+        <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
+        <item name="extendedFloatingActionButtonStyle">@style/Widget.App.ExtendedFAB</item>
+    </style>
+    <style name="Widget.App.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">3dp</item>
+        <item name="cardBackgroundColor">@color/color_surface</item>
+        
+        <item name="strokeWidth">0dp</item>
+    </style>
+    <style name="Widget.App.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Icon.Primary">
+        <item name="backgroundTint">@color/color_primary</item>
+        <item name="iconTint">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+</resources>

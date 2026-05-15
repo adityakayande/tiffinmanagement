@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\fragment_customer_details.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\fragment_customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\dialog_customer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\dialog_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\item_payment.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\fragment_payment_history.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\fragment_payment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\fragment_customer_list.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\fragment_customer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\item_customer.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\item_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\dialog_payment.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "com.example.tiffin.app-mergeDebugResources-55:/layout/dialog_qr.xml",
+        "source": "com.example.tiffin.app-main-58:/layout/dialog_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\dialog_qr.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\dialog_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-mergeDebugResources-55:\\layout\\item_absence.xml",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\item_absence.xml"
+    }
+]

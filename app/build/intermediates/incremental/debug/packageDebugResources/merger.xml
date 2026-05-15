@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res"><file name="activity_main" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="fragment_customer_details" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\fragment_customer_details.xml" qualifiers="" type="layout"/><file name="fragment_customer_list" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\fragment_customer_list.xml" qualifiers="" type="layout"/><file name="fragment_payment_history" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\fragment_payment_history.xml" qualifiers="" type="layout"/><file name="nav_graph" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\navigation\nav_graph.xml" qualifiers="" type="navigation"/><file path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_40">#4F46E5</color><color name="purple_80">#818CF8</color><color name="teal_40">#10B981</color><color name="teal_80">#34D399</color><color name="color_error">#EF4444</color><color name="color_success">#10B981</color><color name="color_text_primary">#0F172A</color><color name="color_secondary_variant">#059669</color><color name="color_background">#F8FAFC</color><color name="color_primary_variant">#4338CA</color><color name="color_text_secondary">#64748B</color><color name="color_surface">#FFFFFF</color><color name="color_warning">#F59E0B</color><color name="color_primary">#4F46E5</color><color name="color_secondary">#10B981</color></file><file path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Tiffin Manager</string><string name="status_paid">Paid</string><string name="status_due">Due</string><string name="status_partial">Partial</string><string name="button_add_customer">Add Customer</string><string name="button_save">Save</string><string name="button_cancel">Cancel</string><string name="share_due_reminder">Share Due Reminder</string><string name="button_open_payments">Payment History</string><string name="dialog_customer_title">Customer</string><string name="dialog_payment_title">Payment</string><string name="field_name">Name</string><string name="field_phone">Phone</string><string name="field_address">Address</string><string name="field_date_joining">Date of joining</string><string name="field_month">Month</string><string name="field_year">Year</string><string name="field_amount_to_pay">Amount to be paid</string><string name="field_amount_paid">Amount paid</string></file><file path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.Tiffin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/outfit</item>
+        <item name="fontFamily">@font/outfit</item>
+        
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorError">@color/color_error</item>
+        
+        
+        <item name="android:windowBackground">@color/color_background</item>
+        <item name="colorSurface">@color/color_surface</item>
+        <item name="android:statusBarColor">@color/color_primary_variant</item>
+        
+        
+        <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
+        <item name="extendedFloatingActionButtonStyle">@style/Widget.App.ExtendedFAB</item>
+    </style><style name="Widget.App.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">3dp</item>
+        <item name="cardBackgroundColor">@color/color_surface</item>
+        
+        <item name="strokeWidth">0dp</item>
+    </style><style name="Widget.App.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Icon.Primary">
+        <item name="backgroundTint">@color/color_primary</item>
+        <item name="iconTint">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">16dp</item>
+    </style><style name="ShapeAppearance.App.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style></file><file path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\values-night\colors.xml" qualifiers="night-v8"><color name="color_error">#F87171</color><color name="color_success">#34D399</color><color name="color_text_primary">#F8FAFC</color><color name="color_secondary_variant">#10B981</color><color name="color_surface">#1E293B</color><color name="purple_80">#4F46E5</color><color name="color_primary_variant">#4F46E5</color><color name="color_secondary">#34D399</color><color name="teal_40">#34D399</color><color name="color_text_secondary">#94A3B8</color><color name="purple_40">#818CF8</color><color name="teal_80">#10B981</color><color name="color_primary">#818CF8</color><color name="color_warning">#FCD34D</color><color name="color_background">#0F172A</color></file><file path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.Tiffin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorOnPrimary">@color/color_text_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorOnSecondary">@color/color_background</item>
+        <item name="colorError">@color/color_error</item>
+        
+        
+        <item name="android:windowBackground">@color/color_background</item>
+        <item name="colorSurface">@color/color_surface</item>
+        <item name="android:statusBarColor">@color/color_background</item>
+        
+        
+        <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
+        <item name="extendedFloatingActionButtonStyle">@style/Widget.App.ExtendedFAB</item>
+    </style><style name="Widget.App.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Icon.Primary">
+        <item name="backgroundTint">@color/color_primary</item>
+        <item name="iconTint">@color/color_text_primary</item>
+        <item name="android:textColor">@color/color_text_primary</item>
+        <item name="cornerRadius">16dp</item>
+    </style><style name="Widget.App.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/color_surface</item>
+        
+        <item name="strokeWidth">0dp</item>
+    </style><style name="ShapeAppearance.App.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style></file><file name="dialog_customer" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\dialog_customer.xml" qualifiers="" type="layout"/><file name="dialog_payment" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\dialog_payment.xml" qualifiers="" type="layout"/><file name="item_customer" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\item_customer.xml" qualifiers="" type="layout"/><file name="item_payment" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\item_payment.xml" qualifiers="" type="layout"/><file name="bg_status_pill" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\drawable\bg_status_pill.xml" qualifiers="" type="drawable"/><file name="file_paths" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\xml\file_paths.xml" qualifiers="" type="xml"/><file name="item_absence" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\item_absence.xml" qualifiers="" type="layout"/><file name="backup_rules" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="item_slide_up" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\anim\item_slide_up.xml" qualifiers="" type="anim"/><file name="layout_animation_slide_up" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\anim\layout_animation_slide_up.xml" qualifiers="" type="anim"/><file name="outfit" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\font\outfit.ttf" qualifiers="" type="font"/><file name="ic_qr_code" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\drawable\ic_qr_code.xml" qualifiers="" type="drawable"/><file name="dialog_qr" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\layout\dialog_qr.xml" qualifiers="" type="layout"/><file name="ic_launcher_background" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="qr_payment" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\drawable\qr_payment.png" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Lenovo\Downloads\tiffin\app\src\main\res\drawable\ic_launcher_foreground.png" qualifiers="" type="drawable"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\Downloads\tiffin\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\Downloads\tiffin\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\Downloads\tiffin\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Lenovo\Downloads\tiffin\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

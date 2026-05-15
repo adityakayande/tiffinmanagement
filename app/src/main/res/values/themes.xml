@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Tiffin" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/outfit</item>
+        <item name="fontFamily">@font/outfit</item>
+        <!-- Main Colors -->
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorError">@color/color_error</item>
+        
+        <!-- Surface and Background Colors -->
+        <item name="android:windowBackground">@color/color_background</item>
+        <item name="colorSurface">@color/color_surface</item>
+        <item name="android:statusBarColor">@color/color_primary_variant</item>
+        
+        <!-- Customizing Material Components to feel premium -->
+        <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
+        <item name="extendedFloatingActionButtonStyle">@style/Widget.App.ExtendedFAB</item>
+    </style>
+    
+    <!-- Beautiful softly elevated CardView -->
+    <style name="Widget.App.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">24dp</item>
+        <item name="cardElevation">3dp</item>
+        <item name="cardBackgroundColor">@color/color_surface</item>
+        <!-- Use 0dp stroke to avoid borders and look glassy -->
+        <item name="strokeWidth">0dp</item>
+    </style>
+    
+    <!-- Styling for FAB -->
+    <style name="Widget.App.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Icon.Primary">
+        <item name="backgroundTint">@color/color_primary</item>
+        <item name="iconTint">@android:color/white</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+
+    <!-- Circular Avatar Shape -->
+    <style name="ShapeAppearance.App.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_dialog_qr.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\dialog_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\anim_item_slide_up.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\anim\\item_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_dialog_customer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\dialog_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_item_absence.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\item_absence.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_fragment_customer_details.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\fragment_customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_dialog_payment.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\dialog_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_item_payment.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\item_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\drawable_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\drawable\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_fragment_customer_list.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\fragment_customer_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_item_customer.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\item_customer.xml"
+    },
+    {
+        "merged": "com.example.tiffin.app-merged_res-56:/layout_dialog_qr.xml.flat",
+        "source": "com.example.tiffin.app-main-58:/layout/dialog_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\layout_fragment_payment_history.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\layout\\fragment_payment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\drawable_ic_qr_code.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\drawable\\ic_qr_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\drawable_bg_status_pill.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\drawable\\bg_status_pill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\font_outfit.ttf.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\font\\outfit.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\anim_layout_animation_slide_up.xml.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\anim\\layout_animation_slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-merged_res-56:\\drawable_qr_payment.png.flat",
+        "source": "C:\\Users\\Lenovo\\.gradle\\daemon\\8.5\\com.example.tiffin.app-main-58:\\drawable\\qr_payment.png"
+    }
+]

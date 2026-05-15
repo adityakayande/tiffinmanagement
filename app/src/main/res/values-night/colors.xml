@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Indigo & Emerald Palette - Dark Mode -->
+    <color name="color_primary">#818CF8</color>
+    <color name="color_primary_variant">#4F46E5</color>
+    <color name="color_secondary">#34D399</color>
+    <color name="color_secondary_variant">#10B981</color>
+    
+    <color name="color_background">#0F172A</color>
+    <color name="color_surface">#1E293B</color>
+    
+    <!-- Status Colors -->
+    <color name="color_error">#F87171</color>
+    <color name="color_success">#34D399</color>
+    <color name="color_warning">#FCD34D</color>
+
+    <!-- Text Colors -->
+    <color name="color_text_primary">#F8FAFC</color>
+    <color name="color_text_secondary">#94A3B8</color>
+    
+    <!-- Retained for backward compatibility just in case -->
+    <color name="purple_40">#818CF8</color>
+    <color name="purple_80">#4F46E5</color>
+    <color name="teal_40">#34D399</color>
+    <color name="teal_80">#10B981</color>
+</resources>

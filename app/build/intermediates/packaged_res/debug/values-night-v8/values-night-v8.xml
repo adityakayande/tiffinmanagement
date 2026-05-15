@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_background">#0F172A</color>
+    <color name="color_error">#F87171</color>
+    <color name="color_primary">#818CF8</color>
+    <color name="color_primary_variant">#4F46E5</color>
+    <color name="color_secondary">#34D399</color>
+    <color name="color_secondary_variant">#10B981</color>
+    <color name="color_success">#34D399</color>
+    <color name="color_surface">#1E293B</color>
+    <color name="color_text_primary">#F8FAFC</color>
+    <color name="color_text_secondary">#94A3B8</color>
+    <color name="color_warning">#FCD34D</color>
+    <color name="purple_40">#818CF8</color>
+    <color name="purple_80">#4F46E5</color>
+    <color name="teal_40">#34D399</color>
+    <color name="teal_80">#10B981</color>
+    <style name="ShapeAppearance.App.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Theme.Tiffin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorOnPrimary">@color/color_text_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorOnSecondary">@color/color_background</item>
+        <item name="colorError">@color/color_error</item>
+        
+        
+        <item name="android:windowBackground">@color/color_background</item>
+        <item name="colorSurface">@color/color_surface</item>
+        <item name="android:statusBarColor">@color/color_background</item>
+        
+        
+        <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
+        <item name="extendedFloatingActionButtonStyle">@style/Widget.App.ExtendedFAB</item>
+    </style>
+    <style name="Widget.App.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/color_surface</item>
+        
+        <item name="strokeWidth">0dp</item>
+    </style>
+    <style name="Widget.App.ExtendedFAB" parent="Widget.Material3.ExtendedFloatingActionButton.Icon.Primary">
+        <item name="backgroundTint">@color/color_primary</item>
+        <item name="iconTint">@color/color_text_primary</item>
+        <item name="android:textColor">@color/color_text_primary</item>
+        <item name="cornerRadius">16dp</item>
+    </style>
+</resources>
